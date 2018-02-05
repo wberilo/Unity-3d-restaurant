@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.Linq;
 
+//change this to xml one day
+
 public static class RecipeBook{
     public static Ingredient Lettuce = new Ingredient("Lettuce", Ingredient.IngredientType.Filling);
     public static Ingredient Bread = new Ingredient("Bread", Ingredient.IngredientType.Bread);

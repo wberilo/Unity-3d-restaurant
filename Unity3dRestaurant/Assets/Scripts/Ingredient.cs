@@ -4,7 +4,7 @@ using UnityEngine;
 
 [System.Serializable]
 public class Ingredient : FoodItem {
-    public enum IngredientType {Bread,Meat,Filling};
+    public enum IngredientType {Bread,Meat,Filling,Pasta};
     public IngredientType ingType;
     
 
